@@ -36,14 +36,16 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 | --- | --- |
 | ![](./contents/menu/icon-react-native.png) | ![](./contents/menu/icon-flutter.png) |
 
-## オプション
+## CI/CD
 
-### 開発環境
+### AWS platform
 
-- Build
-- Lint
-- Deploy
+| | | |
+| --- | --- | --- |
+| ![](./contents/cicd/icon-cicd-codecommit.png) | ![](./contents/cicd/icon-cicd-codedeploy.png) | ![](./contents/cicd/icon-cicd-bitrise.png) |
 
-### CI/CD
+### GitHub Actions
 
-`TBD`
+| | |
+| --- | --- |
+| ![](./contents/cicd/icon-cicd-githubactions.png) | ![](./contents/cicd/icon-cicd-.png) |
