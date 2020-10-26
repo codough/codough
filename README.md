@@ -46,6 +46,6 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 
 ### GitHub Actions
 
-| | |
-| --- | --- |
-| ![](./contents/cicd/icon-cicd-githubactions.png) | ![](./contents/cicd/icon-cicd-.png) |
+| |
+| --- |
+| ![](./contents/cicd/icon-cicd-githubactions.png) |
