@@ -14,7 +14,7 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 
 ### Webフロントエンド (Nodeベース)
 
-| react-web | vue | angular | 
+| React (Web) | Vue.js | Angular | 
 | --- | --- | --- |
 | ![](./contents/menu/icon-react-web.png) | ![](./contents/menu/icon-vue.png) | ![](./contents/menu/icon-angular.png) |
 
@@ -32,7 +32,7 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 
 ### xPlatform フロントエンド
 
-| react-native | flutter |
+| React Native | Flutter |
 | --- | --- |
 | ![](./contents/menu/icon-react-native.png) | ![](./contents/menu/icon-flutter.png) |
 
