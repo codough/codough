@@ -26,7 +26,7 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 
 | Android View | Jetpack Compose |
 | --- | --- |
-| `TBD: アイコン` | `TBD: アイコン` |
+| ![](./menu/icon-android-view.png) | ![](./menu/icon-android-jetpack.png) |
 
 ### クロスプラットフォーム
 
