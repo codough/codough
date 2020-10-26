@@ -36,7 +36,7 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 | --- | --- |
 | ![](./contents/menu/icon-react-native.png) | ![](./contents/menu/icon-flutter.png) |
 
-## CI/CD
+## CI (継続的インテグレーション)
 
 ### AWS Platform
 
@@ -44,8 +44,17 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 | --- | --- | --- |
 | ![](./contents/cicd/icon-cicd-codecommit.png) | ![](./contents/cicd/icon-cicd-codedeploy.png) | ![](./contents/cicd/icon-cicd-bitrise.png) |
 
+### AWS Amplify コンソール
+
+| | |
+| --- | --- |
+| ![](./contents/cicd/icon-cicd-amplify.png) | ![](./contents/cicd/icon-cicd-bitrise.png) |
+
 ### GitHub Actions
 
 | |
 | --- |
 | ![](./contents/cicd/icon-cicd-githubactions.png) |
+
+## CD (継続的デリバリーまたは継続的デプロイメント)
+
