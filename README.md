@@ -6,6 +6,33 @@
 
 Webベース、かつGitpodを組み合わせたプラットフォームでの提供であり、これはその技術に精通していない誰にでもすぐに動作を確認することができ、他のサンドボックス系のサービスとは違ってプロダクト開発をアジャイルに展開するのに「Sprint 0」として実施しなければいけないことの多くを肩代わりしてくれた状態から開始できるというメリットが備わっています。
 
-## 生地
+## プレーン メニュー
 
-`TBD`
+### Webフロントエンド (Nodeベース)
+
+| | | |
+| --- | --- | --- |
+| react-web | vue | angular | 
+| ![](./menu/icon-react-web.png) | ![](./menu/icon-vue.png) | ![](./menu/icon-angular.png) |
+
+### iOS フロントエンド
+
+| | |
+| --- | --- |
+| UIKit | SwiftUI |
+| `TBD: アイコン` | `TBD: アイコン` |
+
+### Android フロントエンド
+
+| | |
+| --- | --- |
+| xxx | xxx |
+| ![](./menu/icon-react-native.png) | ![](./menu/icon-flutter.png) |
+
+### クロスプラットフォーム
+
+| | |
+| --- | --- |
+| react-native | flutter |
+| ![](./menu/icon-react-native.png) | ![](./menu/icon-flutter.png) |
+
