@@ -40,27 +40,20 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 
 ### ソースコードリポジトリ
 
-| AWS CodeCommit |
-| --- |
-| ![AWS CodeCommit](./contents/cicd/icon-cicd-codecommit.png) |
+| | | |
+| --- | --- | --- |
+| ![AWS CodeCommit](./contents/cicd/icon-cicd-codecommit.png) | AWS CodeCommit | `TBD` |
 
-### AWS Platform
+### ビルドパイプライン
 
 | | | |
 | --- | --- | --- |
-| ![AWS CodeCommit](./contents/cicd/icon-cicd-codecommit.png) | ![AWS CodeDeploy](./contents/cicd/icon-cicd-codedeploy.png) | ![Bitrise](./contents/cicd/icon-cicd-bitrise.png) |
+| ![AWS CodeBuild](./contents/cicd/icon-cicd-bitrise.png) | Bitrise | `TBD` |
+| ![Bitrise](./contents/cicd/icon-cicd-bitrise.png) | Bitrise | `TBD` |
+| ![GitHub Actions](./contents/cicd/icon-cicd-githubactions.png) | GitHub Actions | `TBD` |
 
-### AWS Amplify コンソール
+## CD (継続的デリバリーまたは継続的デプロイメント)
 
 | | |
 | --- | --- |
 | ![](./contents/cicd/icon-cicd-amplify.png) | ![](./contents/cicd/icon-cicd-bitrise.png) |
-
-### GitHub Actions
-
-| |
-| --- |
-| ![](./contents/cicd/icon-cicd-githubactions.png) |
-
-## CD (継続的デリバリーまたは継続的デプロイメント)
-
