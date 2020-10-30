@@ -38,16 +38,11 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 
 ## CI (継続的インテグレーション)
 
-### ソースコードリポジトリ
-
-| | | |
+| |  | |
 | --- | --- | --- |
+| | **ソースコードリポジトリ** | |
 | ![AWS CodeCommit](./contents/cicd/icon-cicd-codecommit.png) | AWS CodeCommit | `TBD` |
-
-### ビルドパイプライン
-
-| | | |
-| --- | --- | --- |
+| | **ビルドパイプライン** | |
 | ![AWS CodeBuild](./contents/cicd/icon-cicd-codebuild.png) | AWS CodeBuild | `TBD` |
 | ![Bitrise](./contents/cicd/icon-cicd-bitrise.png) | Bitrise | `TBD` |
 | ![GitHub Actions](./contents/cicd/icon-cicd-githubactions.png) | GitHub Actions | `TBD` |
