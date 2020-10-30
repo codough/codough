@@ -38,15 +38,24 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 
 ## CI (継続的インテグレーション)
 
-| |  | |
+| | | |
 | --- | --- | --- |
 | | **ソースコードリポジトリ** | |
 | ![AWS CodeCommit](./contents/cicd/icon-cicd-codecommit.png) | AWS CodeCommit | `TBD` |
 | | **ビルドパイプライン** | |
+| ![AWS CodePipeline](./contents/cicd/icon-cicd-codepipeline.png) | AWS CodePipeline | `TBD` |
 | ![AWS CodeBuild](./contents/cicd/icon-cicd-codebuild.png) | AWS CodeBuild | `TBD` |
 | ![Bitrise](./contents/cicd/icon-cicd-bitrise.png) | Bitrise | `TBD` |
 | ![GitHub Actions](./contents/cicd/icon-cicd-githubactions.png) | GitHub Actions | `TBD` |
 
 ## CD (継続的デリバリーまたは継続的デプロイメント)
 
-`TBD`
+| | | |
+| --- | --- | --- |
+| | **デプロイメント** | |
+| ![AWS CodeDeploy](./contents/cicd/icon-cicd-codedeploy.png) | AWS CodeDeploy | `TBD` |
+| ![AWS Amplify](./contents/cicd/icon-cicd-amplify.png) | AWS Amplify Console | `TBD` |
+| ![Fastlane](./contents/cicd/icon-cicd-fastlane.png) | Fastlane | `TBD` |
+| | **E2E** | |
+| ![AWS Device Farm](./contents/cicd/icon-cicd-devicefarm.png) | AWS Device Farm | `TBD` |
+| ![AWS Device Farm](./contents/cicd/icon-cicd-appetize.io.png) | Appetize.io | `TBD` |
