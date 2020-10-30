@@ -49,6 +49,4 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 
 ## CD (継続的デリバリーまたは継続的デプロイメント)
 
-| | |
-| --- | --- |
-| ![](./contents/cicd/icon-cicd-amplify.png) | ![](./contents/cicd/icon-cicd-bitrise.png) |
+`TBD`
