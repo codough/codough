@@ -48,7 +48,7 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 
 | | | |
 | --- | --- | --- |
-| ![AWS CodeBuild](./contents/cicd/icon-cicd-bitrise.png) | Bitrise | `TBD` |
+| ![AWS CodeBuild](./contents/cicd/icon-cicd-codebuild.png) | AWS CodeBuild | `TBD` |
 | ![Bitrise](./contents/cicd/icon-cicd-bitrise.png) | Bitrise | `TBD` |
 | ![GitHub Actions](./contents/cicd/icon-cicd-githubactions.png) | GitHub Actions | `TBD` |
 
