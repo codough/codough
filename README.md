@@ -16,7 +16,7 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 
 | React (Web) | Vue.js | Angular | 
 | --- | --- | --- |
-| [![react-web](./contents/menu/icon-react-web.png)](https://github.com/codough/codough-plate-react-web) | ![](./contents/menu/icon-vue.png) | ![](./contents/menu/icon-angular.png) |
+| [![react-web](./contents/menu/icon-react-web.png)](https://github.com/codough/codough-plate-react-web) | [![](./contents/menu/icon-vue.png)](https://github.com/codough/codough-plate-vue-web) | [![](./contents/menu/icon-angular.png)](https://github.com/codough/codough-plate-angular-web) |
 
 ### iOS フロントエンド
 
