@@ -16,13 +16,13 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 
 | React (Web) | Vue.js | Angular | 
 | --- | --- | --- |
-| [![react-web](./contents/menu/icon-react-web.png)](https://github.com/codough/codough-plate-react-web) | [![](./contents/menu/icon-vue.png)](https://github.com/codough/codough-plate-vue-web) | [![](./contents/menu/icon-angular.png)](https://github.com/codough/codough-plate-angular-web) |
+| [![react-web](./contents/menu/icon-react-web.png)](https://github.com/codough/codough-plate-web-react) | [![](./contents/menu/icon-vue.png)](https://github.com/codough/codough-plate-web-vue) | [![](./contents/menu/icon-angular.png)](https://github.com/codough/codough-plate-web-angular) |
 
 ### iOS フロントエンド
 
 | UIKit | SwiftUI |
 | --- | --- |
-| ![iOS UIKit](./contents/menu/icon-ios-uikit.png) | ![iOS SwiftUI](./contents/menu/icon-ios-swiftui.png) |
+| [![iOS UIKit](./contents/menu/icon-ios-uikit.png)](https://github.com/codough/codough-plate-ios-uikit) | [![iOS SwiftUI](./contents/menu/icon-ios-swiftui.png)](https://github.com/codough/codough-plate-ios-swiftui) |
 
 ### Android フロントエンド
 
