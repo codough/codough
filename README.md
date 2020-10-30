@@ -28,7 +28,7 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 
 | Android View | Jetpack Compose |
 | --- | --- |
-| ![Android View](./contents/menu/icon-android-view.png) | ![Android Jetpack Compose](./contents/menu/icon-android-jetpack.png) |
+| [![Android View](./contents/menu/icon-android-view.png)](https://github.com/codough/codough-plate-android-view) | [![Android Jetpack Compose](./contents/menu/icon-android-jetpack.png)](https://github.com/codough/codough-plate-android-jetpack-compose) |
 
 ### xPlatform フロントエンド
 
