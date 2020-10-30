@@ -22,27 +22,33 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 
 | UIKit | SwiftUI |
 | --- | --- |
-| ![](./contents/menu/icon-ios-uikit.png) | ![](./contents/menu/icon-ios-swiftui.png) |
+| ![iOS UIKit](./contents/menu/icon-ios-uikit.png) | ![iOS SwiftUI](./contents/menu/icon-ios-swiftui.png) |
 
 ### Android フロントエンド
 
 | Android View | Jetpack Compose |
 | --- | --- |
-| ![](./contents/menu/icon-android-view.png) | ![](./contents/menu/icon-android-jetpack.png) |
+| ![Android View](./contents/menu/icon-android-view.png) | ![Android Jetpack Compose](./contents/menu/icon-android-jetpack.png) |
 
 ### xPlatform フロントエンド
 
 | React Native | Flutter |
 | --- | --- |
-| ![](./contents/menu/icon-react-native.png) | ![](./contents/menu/icon-flutter.png) |
+| ![React Native](./contents/menu/icon-react-native.png) | ![Flutter](./contents/menu/icon-flutter.png) |
 
 ## CI (継続的インテグレーション)
+
+### ソースコードリポジトリ
+
+| AWS CodeCommit |
+| --- |
+| ![AWS CodeCommit](./contents/cicd/icon-cicd-codecommit.png) |
 
 ### AWS Platform
 
 | | | |
 | --- | --- | --- |
-| ![](./contents/cicd/icon-cicd-codecommit.png) | ![](./contents/cicd/icon-cicd-codedeploy.png) | ![](./contents/cicd/icon-cicd-bitrise.png) |
+| ![AWS CodeCommit](./contents/cicd/icon-cicd-codecommit.png) | ![AWS CodeDeploy](./contents/cicd/icon-cicd-codedeploy.png) | ![Bitrise](./contents/cicd/icon-cicd-bitrise.png) |
 
 ### AWS Amplify コンソール
 
