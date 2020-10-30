@@ -42,6 +42,7 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 | --- | --- | --- |
 | | **ソースコードリポジトリ** | |
 | ![AWS CodeCommit](./contents/cicd/icon-cicd-codecommit.png) | AWS CodeCommit | `TBD` |
+| ![GitHub](./contents/cicd/icon-cicd-github.png) | GitHub | `TBD` |
 | | **ビルドパイプライン** | |
 | ![AWS CodePipeline](./contents/cicd/icon-cicd-codepipeline.png) | AWS CodePipeline | `TBD` |
 | ![AWS CodeBuild](./contents/cicd/icon-cicd-codebuild.png) | AWS CodeBuild | `TBD` |
