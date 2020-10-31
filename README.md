@@ -36,7 +36,9 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 | --- | --- |
 | ![React Native](./contents/menu/icon-react-native.png) | ![Flutter](./contents/menu/icon-flutter.png) |
 
-## CI (継続的インテグレーション)
+## CI/CD
+
+### CI (継続的インテグレーション)
 
 | | | |
 | --- | --- | --- |
@@ -49,7 +51,7 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 | ![Bitrise](./contents/cicd/icon-cicd-bitrise.png) | Bitrise | `TBD` |
 | ![GitHub Actions](./contents/cicd/icon-cicd-githubactions.png) | GitHub Actions | `TBD` |
 
-## CD (継続的デリバリーまたは継続的デプロイメント)
+### CD (継続的デリバリーまたは継続的デプロイメント)
 
 | | | |
 | --- | --- | --- |
@@ -59,4 +61,4 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 | ![Fastlane](./contents/cicd/icon-cicd-fastlane.png) | Fastlane | `TBD` |
 | | **E2E** | |
 | ![AWS Device Farm](./contents/cicd/icon-cicd-devicefarm.png) | AWS Device Farm | `TBD` |
-| ![AWS Device Farm](./contents/cicd/icon-cicd-appetize.io.png) | Appetize.io | `TBD` |
+| ![AWS Device Farm](./contents/cicd/icon-cicd-appetize.io.png) | Appetize.io | `TBD` |ΩΩ
