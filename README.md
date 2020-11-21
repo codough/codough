@@ -10,6 +10,25 @@
 
 Webベース、かつGitpodを組み合わせたプラットフォームでの提供であり、これはその技術に精通していない誰にでもすぐに動作を確認することができ、他のサンドボックス系のサービスとは違ってプロダクト開発をアジャイルに展開するのに「Sprint 0」として実施しなければいけないことの多くを肩代わりしてくれた状態から開始できるというメリットが備わっています。
 
+## プレーン
+
+(WIP)
+
+![](./contents/cicd/ci_cd_pipeline.png)
+
+- `The Twelve-Factor App`  に準拠している
+- 以下の機能を備えている
+    - make setup
+    - make test
+    - make lint
+        - make autocorrect
+    - make test
+        - make ui-test
+    - make build
+    - make deploy
+
+
+
 ## プレーン メニュー
 
 ### Webフロントエンド (Nodeベース)
