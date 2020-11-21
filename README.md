@@ -14,9 +14,16 @@ Webベース、かつGitpodを組み合わせたプラットフォームでの�
 
 (WIP)
 
-![](./contents/cicd/ci_cd_pipeline.png)
+### Twelve-Factor App
 
 - `The Twelve-Factor App`  に準拠している
+
+![](./contents/cicd/twelve_factor_app.png)
+
+### CI/CD Cycle
+
+![](./contents/cicd/buildPipeline.png)
+
 - 以下の機能を備えている
     - make setup
     - make test
